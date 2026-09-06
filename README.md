@@ -1,20 +1,32 @@
-<h1 align="center">Hi, I'm Slavaxexe 👋</h1>
+<h1 align="center">Привет! Я Вячеслав 👋</h1>
 
 <p align="center">
-  I build machine learning, data, and automation projects — from research and model evaluation to reproducible pipelines and applications.
+  Разрабатываю проекты в области машинного обучения, анализа данных и автоматизации — от исследования и оценки моделей до воспроизводимых пайплайнов и готовых приложений.
 </p>
 
-## Featured projects
+## Основные направления
 
-| Project | Highlights | Stack |
+- глубокое обучение и мультимодальные модели;
+- LLM-агенты, RAG и автоматизация ML-процессов;
+- обработка изображений, текста, аудио и табличных данных;
+- анализ данных, проверка гипотез и визуализация результатов.
+
+## Избранные проекты
+
+| Проект | Что сделано | Технологии |
 |---|---|---|
-| [Russian Vision-Language Model](https://github.com/Slavaxexe/VK-VLM-Project) | Fine-tuned and evaluated Russian-language VLMs with QLoRA; reproducible experiments, model cards, DVC artifacts, and statistical validation | Python · Qwen2.5-VL · QLoRA · DVC · DagsHub |
-| [Multimodal Product Price Prediction](https://github.com/Dezurn/Deep-Learning) | Marketplace price prediction from product text and images, with experiment tracking and model versioning | Python · Deep Learning · MLflow · DagsHub |
-| [AI Agent for Automated ML](https://github.com/Dezurn/GP3) | n8n-based agent that automates the ML workflow from data processing to training and model selection | Python · n8n · FastAPI · ML |
-| [Job Market Data Pipeline](https://github.com/Dezurn/GP_2_Scraping_API) | Collected and analyzed job listings through scraping and APIs; produced EDA and interactive geographic maps | Python · Selenium · Beautiful Soup · Pandas · Folium |
-| [Statistical Data Analysis](https://github.com/Dezurn/GP4_Statistics) | Research hypothesis testing, statistical analysis, and result visualization | Python · Statistics · Jupyter Notebook |
-| [Word Solitaire](https://github.com/Slavaxexe/WordSoliter) | Android word-card game with custom drawing, deck logic, level generation, and a built APK | Java · Android · Gradle |
+| [Русскоязычная Vision-Language модель](https://github.com/Slavaxexe/VK-VLM-Project) | Дообучение и оценка мультимодальных моделей с помощью QLoRA, воспроизводимые эксперименты и статистическая проверка результатов | Python · Qwen2.5-VL · QLoRA · DVC · DagsHub |
+| [Распознавание рукописного текста](https://github.com/Slavaxexe/handwriting-ocr-vlm) | Распознавание русскоязычных рукописных записей с Qwen2.5-VL и оценка качества по метрике CER | Python · Transformers · Qwen2.5-VL · BitsAndBytes |
+| [LLM-агенты: RAG и LangGraph](https://github.com/Slavaxexe/llm-agent-workflows) | RAG-ассистент по документам и агентная система рекомендаций фильмов | Python · LangChain · LangGraph · FAISS · OpenRouter |
+| [Генеративные модели для табличных данных](https://github.com/Slavaxexe/tabular-generative-models) | Сравнение cWGAN, CVAE, диффузионной модели и RealNVP на задаче генерации синтетических данных | Python · PyTorch · scikit-learn · Pandas |
+| [Классификация городских звуков](https://github.com/Slavaxexe/urban-sound-classification) | Сравнение моделей на сыром аудио и Mel-спектрограммах; лучшая CNN достигла 93,6% accuracy | Python · PyTorch · Librosa · CNN · LSTM |
+| [Прогнозирование цены товара](https://github.com/Dezurn/Deep-Learning) | Мультимодальная модель для оценки цены по тексту и изображениям товара с отслеживанием экспериментов | Python · Deep Learning · MLflow · DagsHub |
+| [AI-агент для автоматизации ML](https://github.com/Dezurn/GP3) | Агент на базе n8n, автоматизирующий обработку данных, обучение и выбор модели | Python · n8n · FastAPI · ML |
+
+## Технологии
+
+`Python` · `PyTorch` · `Transformers` · `LangChain` · `LangGraph` · `FastAPI` · `Pandas` · `scikit-learn` · `MLflow` · `DVC`
 
 ---
 
-<sub>Selected repositories with meaningful public contributions through August 26, 2026.</sub>
+<sub>Здесь собраны наиболее содержательные личные и командные проекты с моим участием.</sub>

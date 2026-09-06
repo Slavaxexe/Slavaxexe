@@ -10,6 +10,7 @@
 |---|---|---|
 | [Russian Vision-Language Model](https://github.com/Slavaxexe/VK-VLM-Project) | Fine-tuned and evaluated Russian-language VLMs with QLoRA; reproducible experiments, model cards, DVC artifacts, and statistical validation | Python · Qwen2.5-VL · QLoRA · DVC · DagsHub |
 | [Handwriting OCR with Qwen2.5-VL](https://github.com/Slavaxexe/handwriting-ocr-vlm) | Recognized Russian handwritten text with a quantized vision-language model and evaluated results using CER | Python · Transformers · Qwen2.5-VL · BitsAndBytes |
+| [LLM Agent Workflows](https://github.com/Slavaxexe/llm-agent-workflows) | Built a document RAG assistant and a LangGraph-based movie recommendation workflow | Python · LangChain · LangGraph · FAISS · OpenRouter |
 | [Urban Sound Classification](https://github.com/Slavaxexe/urban-sound-classification) | Compared raw-audio and Mel-spectrogram models; the best CNN reached 93.6% validation accuracy | Python · PyTorch · Librosa · CNN · LSTM |
 | [Generative Models for Tabular Data](https://github.com/Slavaxexe/tabular-generative-models) | Compared cWGAN, CVAE, conditional diffusion, and RealNVP for synthetic tabular data generation | Python · PyTorch · scikit-learn · Pandas |
 | [Multimodal Product Price Prediction](https://github.com/Dezurn/Deep-Learning) | Marketplace price prediction from product text and images, with experiment tracking and model versioning | Python · Deep Learning · MLflow · DagsHub |
